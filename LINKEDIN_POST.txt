@@ -1,0 +1,15 @@
+🏦 Capstone-05: LoanLens — KNN Loan Approval Prediction
+
+I built an educational Next.js + FastAPI application using scikit-learn KNN.
+Features: applicant form, REST predictions, missing-value handling, categorical encoding, scaling, and training-only cross-validation for n_neighbors.
+
+Held-out results:
+Default k=5: 78.86% accuracy
+CV-selected k=15: 73.17% accuracy
+
+Tuning did not improve this particular test split. The tuned model also misses most rejection-labeled cases; accuracy alone is not sufficient for lending applications.
+
+Educational demonstration only—not a real loan decision system. No fairness or financial validation is claimed.
+Live app: [insert tested deployment link]
+GitHub: [insert repository link]
+#MachineLearning #KNN #NextJS #FastAPI #Python #DataScience
