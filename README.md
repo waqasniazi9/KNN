@@ -1,4 +1,4 @@
-# LoanLens — Capstone-05
+# LoanLens  Capstone-05
 Next.js + FastAPI + default/CV-tuned KNN. Educational only, not a lending system.
 
 ## Local backend (terminal 1)
